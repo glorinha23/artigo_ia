@@ -2,6 +2,10 @@
 
 ## Indústria e a IA
 
+<p align="center">
+    <img width="100" src=".github/assets/capa.png">
+</p>
+
 Na indústria, a IA pode ser utilizada para otimizar processos de produção, aumentar a produtividade e até mesmo melhorar a segurança no trabalho. 
 Sistemas de IA analisam dados em tempo real para prever falhas de equipamentos, programar manutenções preventivas e ajustar operações para maximizar a produção.
 
