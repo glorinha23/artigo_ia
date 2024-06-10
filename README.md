@@ -28,4 +28,4 @@ toda a sua rede de produção. E, com isso, controlar diversas ações de forma 
 A proposta de integrar esses conceitos tem por objetivo fomentar ações de pesquisa, desenvolvimento, inovação, capacitação e infraestrutura para gerar competitividade e 
 ampliação do acesso a tecnologias inovadoras.
 
-  [Glória Oliveira](https://github.com/glorimha23/artigo_ia)
+  [Glória Oliveira](https://github.com/glorinha23/artigo_ia)
