@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/capa.png">
+    <img width="100" src="http://github.com/glorinha23/assets/capa.png">
 </p>
 
 
