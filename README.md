@@ -14,7 +14,8 @@ indústria 4.0. O próprio BrazilLAB surgiu para transformar este cenário, atua
 programa de aceleração e de outras iniciativas.
 
 
-💻## O que é a indústria 4.0?
+## O que é a indústria 4.0?
+
 Antes de analisar os impactos dessa revolução no setor de GovTech, vale recapitular a sua definição. O termo indústria 4.0 foi concebido para caracterizar a utilização 
 do que há de mais moderno para produzir bens de consumo: big data, internet das coisas, inteligência artificial e muito mais. O termo foi utilizado pela primeira vez 
 em 2011, na Feira de Hannover, quando o governo alemão anunciou um conjunto de estratégias focadas em tecnologia.
