@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img width="100" src=".assets/capa.png">
+</p>
 # artigo_ia
 
 ## Indústria e a IA
