@@ -1,10 +1,18 @@
+<p align="center">
+    <img width="100" src=".github/assets/banner.png">
+</p>
+
+
+<p align="center">
+  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
+  </a>
+</p>
+
 # artigo_ia
 
 ## Indústria e a IA
-
-<p align="center">
-    <img width="100" src=".github/assets/capa.png">
-</p>
 
 Na indústria, a IA pode ser utilizada para otimizar processos de produção, aumentar a produtividade e até mesmo melhorar a segurança no trabalho. 
 Sistemas de IA analisam dados em tempo real para prever falhas de equipamentos, programar manutenções preventivas e ajustar operações para maximizar a produção.
