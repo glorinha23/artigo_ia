@@ -1,5 +1,7 @@
 # artigo_ia
 
+## Indústria e a IA
+
 Na indústria, a IA pode ser utilizada para otimizar processos de produção, aumentar a produtividade e até mesmo melhorar a segurança no trabalho. 
 Sistemas de IA analisam dados em tempo real para prever falhas de equipamentos, programar manutenções preventivas e ajustar operações para maximizar a produção.
 
@@ -12,7 +14,7 @@ indústria 4.0. O próprio BrazilLAB surgiu para transformar este cenário, atua
 programa de aceleração e de outras iniciativas.
 
 
-💻O que é a indústria 4.0?
+💻## O que é a indústria 4.0?
 Antes de analisar os impactos dessa revolução no setor de GovTech, vale recapitular a sua definição. O termo indústria 4.0 foi concebido para caracterizar a utilização 
 do que há de mais moderno para produzir bens de consumo: big data, internet das coisas, inteligência artificial e muito mais. O termo foi utilizado pela primeira vez 
 em 2011, na Feira de Hannover, quando o governo alemão anunciou um conjunto de estratégias focadas em tecnologia.
